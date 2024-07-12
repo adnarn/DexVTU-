@@ -1,0 +1,48 @@
+.p2p-container {
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .p2p-title {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .p2p-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 1em;
+    color: #666;
+  }
+  
+  .p2p-input,
+  .p2p-textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  .p2p-textarea {
+    resize: vertical;
+  }
+
+  

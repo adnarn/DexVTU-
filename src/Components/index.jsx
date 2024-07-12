@@ -1,0 +1,14 @@
+export {default as Add} from './Add';
+export {default as Atm} from './Atm';
+export {default as Betting} from './Betting';
+export {default as BuyData} from './BuyData';
+export {default as Education} from './Education'
+export {default as GiftCard} from './GiftCard'
+export {default as More} from './More'
+export {default as P2P} from './P2P'
+export {default as Scan} from './Scan'
+export {default as Spend} from './Spend'
+export {default as Subscribe} from './Subscribe'
+export {default as Transfer} from './Transfer'
+export {default as TvSubscription} from './Refer'
+export {default as Withdraw} from './Withdraw'

@@ -1,0 +1,59 @@
+.refer-container {
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .refer-title {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .refer-description {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 20px;
+  }
+/*   
+  .refer-link-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  } */
+/*   
+  .refer-link .refer-link-input{
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  .refer-copy-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .refer-copy-button:hover {
+    background-color: #0056b3;
+  }
+   */
+  .copy-icon {
+    font-size: 1em;
+  }
+  

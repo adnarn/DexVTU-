@@ -1,0 +1,45 @@
+.gift-card-container {
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .gift-card-title {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .gift-card-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .gift-card-label {
+    font-size: 1em;
+    color: #666;
+    text-align: left;
+  }
+  
+  .gift-card-input,
+  .gift-card-textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  .gift-card-textarea {
+    resize: vertical;
+    height: 100px;
+  }
+
+  

@@ -1,0 +1,33 @@
+/* scanQr.css */
+
+
+.scan-qr-container {
+    background-color: #f0f0f0; 
+    padding: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+    max-width: 400px;
+    margin: 20px auto; 
+  }
+  
+
+  .scan-qr-container h2 {
+    color: #333;
+    margin-bottom: 40px; 
+
+  }
+  
+
+  .qr-code-placeholder {
+    background-color: #d3d3d3; 
+    width: 333px;
+    height: 333px;
+    border-radius: 10px; 
+    border: 1px solid #ccc; 
+    margin-bottom: 20px; 
+  }
+
+
+
+  

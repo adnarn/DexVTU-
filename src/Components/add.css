@@ -1,0 +1,96 @@
+/* 
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid #ddd;
+  padding: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .header {
+    margin-bottom: 20px;
+  }
+h2{
+    color: #333;
+    font-size: 30px;
+    margin-top: 32px;
+}
+
+  h4 {
+    margin-bottom: 1rem;
+    color: #333;
+    font-size: 19px;
+    text-align: left;
+}
+
+  input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 53px;
+    font-size: 1rem;
+}
+
+
+ input[type="number"] {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.legend{
+  visibility: hidden;
+}
+.input{
+  visibility: visible;
+}
+.legendVisible{
+  visibility: visible;
+  
+}
+
+
+fieldset {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+legend {
+  font-weight: bold;
+  color: #333;
+  padding: 0 0.5rem;
+}
+
+.input::placeholder{
+  visibility: visible;
+}
+
+
+button {
+    width: 100%;
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+   */
