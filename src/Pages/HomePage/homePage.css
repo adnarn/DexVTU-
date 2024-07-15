@@ -16,6 +16,11 @@
     margin-top: 17px;
     margin-right: 1rem;
 }
+#homePic{
+    width:40rem;
+    height: 40rem;
+    border-radius: 1rem;
+}
 
 .contents{
     display: flex;
@@ -44,8 +49,27 @@
     font-weight: bold;
 }
 
+.myBorder{
+    margin: 0 auto;
+    padding: 10px;
+    width: 40rem;
+    border: 1px solid #ccc;
+    border-radius: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background: transparent;
+    margin-bottom: 2rem;
+
+}
+
 .balance{
     margin-bottom: 1em;
+    font-size: 1.5rem;
+    margin-left: -20rem;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    color: gray;
+    font-weight: 700;
 }
 
 

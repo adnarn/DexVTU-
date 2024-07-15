@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.subscription-container {
+    text-align: center;
+    padding: 20px;
+    width: 39rem;
+}
+
+h1 {
+    color: #333;
+}
+
+.subscription-cards {
+    /* display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px; */
+ 
+    
+}
+
+.subscription-cards .card {
+    background-color: transparent;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 100%;
+    transition: transform 0.3s;
+    
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+h2 {
+    color: #555;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #777;
+    margin: 5px 0;
+}
+

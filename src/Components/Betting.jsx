@@ -26,9 +26,9 @@ const Betting= () => {
             onChange={(e) => setSelectedEvent(e.target.value)}
           >
             <option value="">--Choose an event--</option>
-            <option value="Event 1">Event 1</option>
-            <option value="Event 2">Event 2</option>
-            <option value="Event 3">Event 3</option>
+            <option value="Event 1">Football</option>
+            <option value="Event 2">Basketball</option>
+         
           </select>
         </div>
         <div className="form-group">

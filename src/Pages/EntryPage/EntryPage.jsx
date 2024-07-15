@@ -8,7 +8,7 @@ const EntryPage = () => {
 
   const toggleForm = () => {
     setIsLogin(!isLogin);
-  };
+  }; 
 
   return (
     <div className='logregBox'>

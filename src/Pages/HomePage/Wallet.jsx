@@ -9,6 +9,7 @@ import { Link } from 'react-router-dom'
 const Wallet = () => {
   return (
     <>
+
     <div className='balance'>Balance: &#8358;100,000.00
     </div>
        
@@ -20,11 +21,7 @@ const Wallet = () => {
         <button><FaPlusCircle/> Add Money</button>
         </Link>
     </div>
-       <div className="access">
-        <p>Quick Acess</p>
-       <a href="">Edit</a> 
-       </div>
-
+  
     </>
   )
 }

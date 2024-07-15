@@ -20,7 +20,7 @@ const GridContainer = () => {
         <button classsName="btn"> <FaCreditCard className='icons'/> <br />ATM</button>
         </Link>
        
-    <Link to='/subscribe'>
+    <Link to='/tvSubscription'>
         <button classsName="btn"><FaTv  className='icons'/> <br />Subscription</button>
      </Link>
 
